@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [strongbox-password-safe/babel](https://github.com/strongbox-password-safe/babel)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Update french localizables ([#401](https://github.com/strongbox-password-safe/babel/pull/401))
+
 # Strongbox Babel
 This is the repository for contributing to translation and localisation for Strongbox. Please read the CONTRIBUTIONS.md file before you contribute. 
 
